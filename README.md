@@ -1,1 +1,0 @@
-# odoo-nmit-hackathon-2025
